@@ -1,1 +1,1 @@
-This repository will be used for learining Java Spring Boot
+This repository will be used for learning Java Spring Boot
